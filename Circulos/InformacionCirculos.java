@@ -24,7 +24,7 @@ public class InformacionCirculos
         Random rn = new Random();
         int diametro1 = rn.nextInt(80)+30;
         int diametro2 = rn.nextInt(80)+30;
-        int diametro3 = rn.nextInt(80)+30;
+        int diametro3 = rn.nextInt(80);
         
         int posicionX1 = rn.nextInt(401)+10;
         int posicionX2 = rn.nextInt(401)+10;
