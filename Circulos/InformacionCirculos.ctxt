@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=InformacionCirculos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ InformacionCirculos\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=InformacionCirculos()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InformacionCirculos\r\n
+comment2.params=
+comment2.target=void\ mostrarCirculos()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n\ \ \ \ \ \r\n\r\n
+comment3.params=
+comment3.target=void\ ocultarCirculo()
+comment4.params=
+comment4.target=void\ crearCirculoPeque\u00F1o()
+comment5.params=
+comment5.target=Circle\ circuloMasGrandeEnDiametro()
+comment5.text=\ public\ void\ encontrarElMasGrande()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ //\ put\ your\ code\ here\r\n\ \ \ \ \ \ \ \ Circle\ auxiliar;\r\n\ \ \ \ \ \ \ \ int\ d1,d2,d3;\r\n\ \ \ \ \ \ \ \ d1\=c1.getDiametro();\r\n\ \ \ \ \ \ \ \ d2\=c2.getDiametro();\r\n\ \ \ \ \ \ \ \ d3\=c3.getDiametro();\r\n\ \ \ \ \ \ \ \ if\ (d2>d1\ &&\ d2>d3)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ auxiluar\=c1;\r\n\ \ \ \ \ \ \ \ c1\=c2;\r\n\ \ \ \ \ \ \ \ c2\=auxiliar;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\r\n\ \ \ \ \ \ \ \ \ \ \ \ if(d3>)\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \r\n\ \ \ \ }\r\n
+numComments=6
